@@ -2,21 +2,21 @@ This project is an Edge AI-powered Light Intensity Detector implemented on an ST
 
 Designed for low-power, real-time embedded applications, this project demonstrates how AI/ML models can be deployed on resource-constrained STM32 platforms for smart sensing applications.
 
-**Features:
+*Features:
 Light intensity measurement using analog sensors.
 On-device AI/ML inference for light condition classification.
 Runs entirely on STM32 microcontroller (no cloud dependency).
 Optimized for Edge AI applications.
 Low-power, real-time operation.
 
-**Tech Stack:
+*Tech Stack:
 STM32 microcontroller (e.g., STM32F0/F4 series)
 LDR / Photodiode sensor
 Edge Impulse (or your ML framework)
 Embedded C
 STM32CubeIDE / STM32CubeMX
 
-🚀 Applications:
+Applications:
 Smart lighting systems
 Industrial automation
 Energy-efficient IoT devices
