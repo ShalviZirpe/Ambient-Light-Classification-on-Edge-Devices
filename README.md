@@ -6,7 +6,7 @@ Designed for low-power, real-time embedded applications, this project demonstrat
 
 Light intensity measurement using analog sensors.
 On-device AI/ML inference for light condition classification.
-Runs entirely on STM32 microcontroller (no cloud dependency).
+Runs entirely on STM32 microcontroller. 
 Optimized for Edge AI applications.
 Low-power, real-time operation.
 
